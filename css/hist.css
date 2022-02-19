@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(74, 136, 112, 0.918);
+}
+h2{
+    color:black;
+}
+th{
+    background-color: rgba(28, 28, 87, 0.774);
+    color: white;
+    font-weight: 800;
+}
+tr{
+    font-weight: 600;
+}
+td:hover{
+    background-color: rgba(194, 240, 157, 0.918);
+}
